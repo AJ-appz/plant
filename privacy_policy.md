@@ -77,7 +77,6 @@
 
 <ul>
 <li>Email: thepythontimes8@gmail.com</li>
-<li>Postal address: [Your Company Address]</li>
 </ul>
 
 <h2>14. California Privacy Rights</h2>
