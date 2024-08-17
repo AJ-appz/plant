@@ -7,7 +7,7 @@
 
 <h2>2. Important Information and Who We Are</h2>
 
-<p>PlantIQ is a plant identification application developed and operated by [Your Company Name]. This privacy policy aims to give you information on how PlantIQ collects and processes your data through your use of this App.</p>
+<p>PlantIQ is a plant identification application developed and operated by Arjun Gullbadhar. This privacy policy aims to give you information on how PlantIQ collects and processes your data through your use of this App.</p>
 
 <h2>3. The Data We Collect About You</h2>
 
